@@ -1,0 +1,19 @@
+GITHUB TO VS CODE
+Copy github to vscode - Use git clone responsitorylink
+if I create any files in vs code that i want inject  into github first check the status  use git status &  use git add test2.txt , git commit -m "test2.txt files uploaded"
+To push into github use  -  git push origin main
+To modify and delete any files -  use the above commands and  git pull 
+
+VS CODE TO GITHUB
+Install git folder in your folder - use git init
+Select all the files and folder - git add .
+git commit -m "any test"
+create a responsitory in github
+git remote add origin  link
+git branch -
+To change the branch name - use git branch -M main
+git push origin main
+
+
+
+
