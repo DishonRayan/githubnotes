@@ -10,7 +10,7 @@ Select all the files and folder - git add .
 git commit -m "any test"
 create a responsitory in github
 git remote add origin  link
-git branch -
+git branch 
 To change the branch name - use git branch -M main
 git push origin main
 
